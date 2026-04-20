@@ -11,7 +11,6 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ![Print da execução no Console](img/inspecionar.png)
 
-
-
+    
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
 
